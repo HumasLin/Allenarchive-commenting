@@ -1,7 +1,7 @@
 # Allenarchive-commenting
 Commenting Plugin
 Plugin files:
-In this repository. 
+In /src folder. 
 
 Before upload the files to modify the commenting function on our website, we need to do two configurations:
 
